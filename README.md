@@ -6,6 +6,7 @@
 - [Data Transformation](#data-transformation)
 - [Key Insights](#key-insights)
 - [Business Recommendation](#business-recommendation)
+- - [Dashboard Preview](#dashboard-preview)
 
 ---
 
@@ -55,7 +56,10 @@ By exploring this data with **Microsoft Excel**, I aimed to identify trends and 
 ## Business Recommendation
 
 > Target marketing spend on **middle-aged professionals** with **shorter commutes** and **above-average income**. Bundle bike offerings with lifestyle messaging — fitness, convenience, leisure — rather than pure commute utility. The income data suggests emotional and lifestyle purchase drivers at this segment level.
+## Dashboard Preview
 
+![Bike Sales Dashboard](./Dahboard%20of%20Bike%20Sales%20Analysis.png)
+![Bike Sales Dashboard](./Dahboard%20of%20Bike%20Sales%20Analysis.png)
 
 
 
