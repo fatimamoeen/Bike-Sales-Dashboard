@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0066cc&height=200&section=header&text=Bike%20Sales%20Dashboard&fontSize=50&fontColor=ffffff&animation=fadeIn)
-# 🚲 Bike Sales Analysis Dashboard — Excel
 
 ## Table of Contents
 - [Introduction](#introduction)
