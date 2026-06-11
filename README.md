@@ -6,7 +6,7 @@
 - [Data Transformation](#data-transformation)
 - [Key Insights](#key-insights)
 - [Business Recommendation](#business-recommendation)
-- - [Dashboard Preview](#dashboard-preview)
+- [Dashboard Preview](#dashboard-preview)
 
 ---
 
