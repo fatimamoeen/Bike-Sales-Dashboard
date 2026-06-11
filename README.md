@@ -40,7 +40,7 @@ By exploring this data with **Microsoft Excel**, I aimed to identify trends and 
   - Adult: 30–35
   - Young: Under 30
 - Built pivot tables for each chart dimension
-- Linked all slicers (Education, Occupation, Marital Status, Cars Owned, Home Owner) to pivot tables for full interactivity
+- Add all slicers (Education, Occupation, Marital Status, Cars Owned, Home Owner) to pivot tables for full interactivity
 
 ---
 
