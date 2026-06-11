@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0066cc&height=200&section=header&text=Bike%20Sales%20Dashboard&fontSize=50&fontColor=ffffff&animation=fadeIn)
 # 🚲 Bike Sales Analysis Dashboard — Excel
 
 ## Table of Contents
@@ -59,7 +60,7 @@ By exploring this data with **Microsoft Excel**, I aimed to identify trends and 
 ## Dashboard Preview
 
 ![Bike Sales Dashboard](./Dahboard%20of%20Bike%20Sales%20Analysis.png)
-![Bike Sales Dashboard](./Dahboard%20of%20Bike%20Sales%20Analysis.png)
+
 
 
 
